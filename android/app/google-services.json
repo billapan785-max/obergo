@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1009136262206",
+    "project_id": "gen-lang-client-0154442482",
+    "storage_bucket": "gen-lang-client-0154442482.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009136262206:android:4644dcaa2f2d3ae7b8856f",
+        "android_client_info": {
+          "package_name": "com.obrago.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1009136262206-rii3bs45vcftf3uv749t8mkkokt676rb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGTcjWsEDSoX1FH0zc6RYD1LGFUHQDCSY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1009136262206-rii3bs45vcftf3uv749t8mkkokt676rb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

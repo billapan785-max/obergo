@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Obrago</string>
+    <string name="title_activity_main">Obrago</string>
+    <string name="package_name">com.obrago.app</string>
+    <string name="custom_url_scheme">com.obrago.app</string>
+</resources>

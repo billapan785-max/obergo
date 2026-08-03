@@ -1,0 +1,11 @@
+{
+  "name": "Obrago",
+  "description": "A realtime marketplace for hiring skilled workers and laborers in Pakistan, featuring live GPS tracking, live bidding, push notifications, and instant job matching.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "entities": {
+    "users": {
+      "title": "User",
+      "description": "User profiles for customers, workers, and admins"
+    },
+    "jobs": {
+      "title": "Job",
+      "description": "Labour jobs posted by customers"
+    },
+    "bids": {
+      "title": "Bid",
+      "description": "Worker bids on posted jobs"
+    },
+    "depositRequests": {
+      "title": "DepositRequest",
+      "description": "Wallet point deposit requests"
+    },
+    "ratings": {
+      "title": "JobRating",
+      "description": "Ratings and reviews for workers and customers"
+    },
+    "categories": {
+      "title": "Category",
+      "description": "Job service categories"
+    },
+    "adminSettings": {
+      "title": "AdminSettings",
+      "description": "Platform global configuration"
+    }
+  }
+}

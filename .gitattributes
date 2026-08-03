@@ -1,0 +1,9 @@
+# Preserve binary files so Git never converts line endings or corrupts them
+*.jar binary
+*.aar binary
+*.apk binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.keystore binary
+*.jks binary
